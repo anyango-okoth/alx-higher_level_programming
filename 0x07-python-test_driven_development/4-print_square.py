@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 
 """ Define printing of squares """
 def print_square(size):
